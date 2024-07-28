@@ -1,4 +1,10 @@
 <?php
+/**
+* Receives the expression from the client.
+* Sanitizes the expression to prevent security issues.
+* Uses eval() to compute the result of the expression.
+* Returns the result to the frontend.
+*/
 if (isset($_POST['expression'])) {
     $expression = $_POST['expression'];
 
