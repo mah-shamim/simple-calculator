@@ -1,5 +1,5 @@
 # Simple Calculator
-##Create a basic calculator that can perform addition, subtraction, multiplication, and division.
+## Create a basic calculator that can perform addition, subtraction, multiplication, and division.
 
 Creating a basic calculator with PHP, CSS, and AJAX involves a few key components:
 
