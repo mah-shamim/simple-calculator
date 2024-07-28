@@ -161,3 +161,5 @@ if (isset($_POST['expression'])) {
      - Returns the result to the frontend.
 
 This setup provides a functional basic calculator with a clean interface and responsive behavior using AJAX to handle calculations.
+
+![Alt](https://repobeats.axiom.co/api/embed/11d829e9146763984c47a8932ca2800c26f4e067.svg "Repobeats analytics image")
